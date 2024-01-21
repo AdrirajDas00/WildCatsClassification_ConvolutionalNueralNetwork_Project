@@ -2,10 +2,10 @@
 
 This project aims to:
 
-Create a CNN model that can accurately classify 4 classes of wild cats (Lions, Tigers, Cheetahs and Leopards)
-Preprocess images with ImageDataGenerator
-Employ Early Stopping and Reduction Learning Rate to our CNN model
-Employ Exponential Decay
-Compare predictive power among different Transfer Learning Models
-Analyse accuracy using Confusion Matrix
-Visualize results
+1) Create a CNN model that can accurately classify 4 classes of wild cats (Lions, Tigers, Cheetahs and Leopards).
+2) Preprocess images with ImageDataGenerator.
+3) Employ Early Stopping and Reduction Learning Rate to our CNN model.
+4) Employ Exponential Decay.
+5) Compare predictive power among different Transfer Learning Models.
+6) Analyse accuracy using Confusion Matrix.
+7) Visualize results.
